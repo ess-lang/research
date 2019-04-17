@@ -34,3 +34,5 @@ I think pretty much anyone with experience writing CSS will possess awareness of
 - https://github.com/rtsao/styletron/issues/68#issuecomment-271801234
   - https://github.com/rtsao/sson
   - https://github.com/rtsao/lostyle
+- https://gist.github.com/sarahlim/c44df66647fe9a252b0064d3259fde74
+- https://github.com/captainbrosset/useless-css-properties
